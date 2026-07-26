@@ -6,19 +6,19 @@
 /* ---------- Variáveis ---------- */
 :root {
     --white:        #ffffff;
-    --sand-50:      #faf7f2;   /* fundo claro */
-    --sand-100:     #f7f3ee;   /* bege claro */
-    --sand-200:     #efe8df;   /* areia */
-    --sand-300:     #e3d8ca;   /* areia médio */
-    --gray-light:   #f2f2f0;
-    --gray-300:     #d9d6d1;
-    --gray-500:     #8c8880;
-    --text:         #3b3730;   /* texto principal */
-    --text-soft:    #6d675e;   /* texto secundário */
-    --gold:         #b79a63;   /* dourado fosco */
-    --gold-soft:    #cdb587;
-    --peach:        #f3ddd0;   /* pêssego claro */
-    --blue-soft:    #d7e5ec;   /* azul claro */
+    --sand-50:      #faf8f9;   /* fundo claro (branco levemente rosado) */
+    --sand-100:     #f6f1f3;   /* rosa muito claro */
+    --sand-200:     #f0e6ea;   /* rosa claro */
+    --sand-300:     #e6d5dc;   /* rosa claro médio */
+    --gray-light:   #f4f4f5;
+    --gray-300:     #e2e0e3;   /* cinza claro (bordas) */
+    --gray-500:     #9a959b;
+    --text:         #3a3639;   /* texto principal */
+    --text-soft:    #6f6a6e;   /* texto secundário */
+    --gold:         #c97e93;   /* rosa (cor de destaque, contraste ok com branco) */
+    --gold-soft:    #e3aab9;   /* rosa claro suave */
+    --peach:        #f5dde4;   /* rosa claro */
+    --blue-soft:    #e8eaee;   /* cinza claro */
 
     --font-serif: "Cormorant Garamond", Georgia, serif;
     --font-sans:  "Jost", "Helvetica Neue", Arial, sans-serif;
